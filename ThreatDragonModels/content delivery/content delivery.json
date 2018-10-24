@@ -1,0 +1,22 @@
+{
+  "summary": {
+    "title": "content delivery",
+    "owner": "suneel",
+    "description": "content delivery"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "suneel"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "content delivery",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "suneel"
+  }
+}
